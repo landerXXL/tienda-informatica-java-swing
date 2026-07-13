@@ -1,0 +1,14 @@
+# Java / Eclipse
+bin/
+*.class
+.settings/
+.metadata/
+.recommenders/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
